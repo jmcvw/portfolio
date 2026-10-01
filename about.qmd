@@ -1,0 +1,25 @@
+---
+title: 'About'
+---
+
+## About Me
+
+Use this page to introduce yourself in the style that fits you best.
+
+You might want to include:
+
+- A headshot...
+
+![](images/headshot.png)
+
+- your background and interests
+- the work or projects you are most proud of
+- your goals for your MSc and beyond
+- your wider career aspirations
+- links where people can find your work
+
+### Optional
+
+- What are you currently learning?
+- What kinds of opportunities are you looking for?
+- What should potential collaborators know about you or how you work?

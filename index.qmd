@@ -1,0 +1,13 @@
+---
+title: 'Portfolio of Skills and Experience'
+---
+
+## Welcome
+
+This site is built with [Quarto](https://quarto.org/) and deployed with GitHub Pages.
+
+Use this template to share your MSc/professional development journey:
+
+- Introduce yourself in the __About__ page (`about.qmd`).
+- Add a shot of your own head in the `images/` directory
+
